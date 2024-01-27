@@ -5,9 +5,9 @@
 - WCRC 2023 data contest
 - 기간: ‘23년 10월 ~ ‘23년 11월(2개월)
 - 2023 한국로봇교육콘텐츠 협회장상 수상 - (한국로봇교육콘텐츠협회)
-- 역할 : 팀장 - 데이터 수집, 전처리 , 모델링
+- 역할: 데이터 수집, 전처리 , 모델링
 
-- Tools: python , QGIS 툴 활용
+- 기술 스택: Python, Machine Learning, QGIS
 - 주요 내용
   -python을 활용한 데이터 전처리 및 클러스터링(군집화)와 MCLP(Max Covering Location Problem) 모델링 <br>
   -QGIS를 활용한 공간분석 - 거리벡터 및 그리드, 폴리곤 생성 <br>
